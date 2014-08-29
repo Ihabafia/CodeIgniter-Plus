@@ -58,8 +58,3 @@ $config['img_path'] 		= '_assets/images/';
 $config['swf_path'] 		= '_assets/swf/';
 $config['upload_path'] 		= '_assets/uploads/';
 $config['xml_path'] 		= '_assets/xml/';
-/*$config['module_asset_path'] 	= '/modules/_assets/';
-$config['module_css_path'] 		= '/modules/_assets/css/';
-$config['module_js_path'] 		= '/modules/_assets/js/';
-$config['module_img_path'] 		= '/modules/_assets/images/';*/
-

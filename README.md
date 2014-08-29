@@ -42,7 +42,7 @@ _if you have any suggestions to be added to this app, you are welcome to ask._
 ---
 Credits:
 - [EllisLab - CodeIgniter](https://github.com/EllisLab/CodeIgniter)
-- [Modular Extensions - HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvcxxx)
+- [Modular Extensions - HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc)
 - [Base Model](https://github.com/jamierumbelow/codeigniter-base-model/blob/master/core/MY_Model.php)
 - [Ion Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
 - [Template](https://github.com/philsturgeon/codeigniter-template)

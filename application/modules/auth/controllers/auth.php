@@ -102,11 +102,11 @@ class Auth extends MX_Controller {
 	}
 	//log the user out
 	function logout() {
-		//$this->load->library('session');
-		//$this->session->unset_userdata(['menu'=>'']);
+		if(!$this->session->userdata('user_id')){
+			m('w', t('loggedOut'));
+			redirect('/login');
+		}
 		$this->my_auth->logout();
-		//$this->session->set_userdata('menu_data', '');
-		//redirect them to the login page
 		m('s', $this->my_auth->messages());
 		redirect('/login');
 	}

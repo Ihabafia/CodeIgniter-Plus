@@ -192,5 +192,6 @@ $lang['notAuthorized']				= "You are not authorized to %s.";
 $lang['activate']					= "activate users";
 $lang['deactivate']					= "deactivate users";
 $lang['createGroup']				= "create a users group";
+$lang['loggedOut']					= "You already logged out.";
 
 

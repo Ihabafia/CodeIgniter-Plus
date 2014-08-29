@@ -22,20 +22,13 @@ if (!ini_get('date.timezone')) {
  *
  */
 //define('ENVIRONMENT', 'development');
-// $root = dirname(__FILE__);
-// echo($root); exit;
+
+
+/*$root = dirname(__FILE__);
+echo($root); exit;*/
 
 switch (dirname(__FILE__)) {
-	case 'C:\wamp\www\hmvc-cms.dev':
-	case 'C:\Users\Ihab\Downloads\Programs\UniServerZ\www\aumcrm\public_html':
-	case 'C:\wamp\www\aumcrm':
-	case 'C:\xampp\htdocs\aumcrm\public_html':
-	case 'C:\xampp\htdocs\aumcrm':
-	case 'E:\Clouds\Dropbox\1.Development\wamp\www\aumcrm\public_html':
-	case '/Users/ehabafia/Sites/aumcrm/public_html':
-	case '/var/www/aumcrm/public_html':
-	case '/Volumes/Data/Clouds/OneDrive/Web-Applications/hmvc-cms.dev':
-	case '/Volumes/Data/Clouds/OneDrive/Web-Applications/ci22.dev':
+	case '/Volumes/Data/Clouds/OneDrive/Web-Applications/CodeIgniter-Plus':
 		$env = 'development';
 		break;
 	case '/home/aumcrm/public_html':
