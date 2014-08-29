@@ -7,15 +7,15 @@ CodeIgniter 2.20, HMVC, Base-Model, BootStrap 3.2, IonAuth +, Template
 
 It's a fully functional application that have the following features:
 
-1. CodeIgniter 2.20 with HMVC.
-1. It is styled with BootStrap 3.20.
-1. It having IonAuth working as a HMVC.
-1. It has a role base as well as the group, so you can test if the user is `in_group()` or you can use `has_role()`.
-1. It also have a database driven navigation as well as sorting and managing the navigation.
-1. It also have a site preferences.
-1. Language, css, js, images, etc... can be module base if needed.
-1. Uses the Base-Model.
-1. Finally it uses the Template.
+1. CodeIgniter 2.20 with HMVC
+1. It is styled with BootStrap 3.20
+1. It having IonAuth working as a HMVC
+1. It has a role base as well as the group, so you can test if the user is `in_group()` or you can use `has_role()`
+1. It also have a database driven navigation as well as sorting and managing the navigation
+1. It also have a site preferences
+1. Language, css, js, images, etc... can be module base if needed
+1. Uses the Base-Model
+1. Finally it uses the Template
 1. The roles are database driven and you can use a single role or 	a crud roles, for example you can create:
 
 * **"can_do_this"** as a role or
@@ -25,12 +25,12 @@ It's a fully functional application that have the following features:
 **Installation**
 ---
 
-1. Copy all the folder to your server.
-1. Create a database in your local (server).
-1. Open the database.php file and change it with the information.
-1. point in your browser to your domain by going to `http://yourdomain/migrate/latest`.
-1. Once it's done, then point to your domain by going to `http://yourdomain/`.
-1. Make sure to delete the migrate.php in the application/controllers/migrate.php to avoid some one play with your database especially if you are installing it on a live site.
+1. Copy all the folder to your server
+1. Create a database in your local (server)
+1. Open the database.php file and change it with the information
+1. point in your browser to your domain by going to `http://yourdomain/migrate/latest`
+1. Once it's done, then point to your domain by going to `http://yourdomain/`
+1. Make sure to delete the migrate.php in the application/controllers/migrate.php to avoid some one play with your database especially if you are installing it on a live site
 
 * **Username**: administrator
 * **Password**: password
