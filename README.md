@@ -2,8 +2,11 @@ CodeIgniter-Plus
 ================
 
 CodeIgniter 2.20, HMVC, Base-Model, BootStrap 3.2, IonAuth +, Template
+
 ---
+
 It's a fully functional application that have the following features:
+
 1. CodeIgniter 2.20 with HMVC.
 1. It is styled with BootStrap 3.20.
 1. It having IonAuth working as a HMVC.
@@ -15,10 +18,12 @@ It's a fully functional application that have the following features:
 1. It also have a site preferences.
 1. Language, css, js, images, etc... can be module base if needed.
 1. Uses the Base-Model.
-1. Finally it uses the Template. 
+1. Finally it uses the Template.
+
 ---
 **Installation**
 ---
+
 1. Copy all the folder to your server.
 1. Create a database in your local (server).
 1. Open the database.php file and change it with the information.
