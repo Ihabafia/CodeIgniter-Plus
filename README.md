@@ -20,7 +20,6 @@ It's a fully functional application that have the following features:
 
 * **"can_do_this"** as a role or
 * **"testing"** role as a group of roles, and it will automatically create 4 roles: **create_testing**,  **update_testing**, **read_testing** and **delete_testing**.
-
 ===
 **Installation**
 ---
