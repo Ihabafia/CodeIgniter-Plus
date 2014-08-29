@@ -24,11 +24,15 @@ It's a fully functional application that have the following features:
 1. Open the database.php file and change it with the information.
 1. point in your browser to your domain by going to http://yourdomain/migrate/latest
 1. Once it's done, then point to your domain by going to http://yourdomain/
-1. make sure to delete the migrate.php in the application/controllers/migrate.php to avoid some one play with your database especially if you are installing it on a live site.
+1. Make sure to delete the migrate.php in the application/controllers/migrate.php to avoid some one play with your database especially if you are installing it on a live site.
+
 **Username**: administrator
 **Password**: password
+
 ---
+
 _if you have any suggestions to be added to this app, you are welcome to ask._
+
 ---
 Credits to the:
 - [EllisLab - CodeIgniter](https://github.com/EllisLab/CodeIgniter)
