@@ -18,9 +18,10 @@ It's a fully functional application that have the following features:
 1. Finally it uses the Template.
 1. The roles are database driven and you can use a single role or 	a crud roles, for example you can create:
 
-- **"can_do_this"** as a role or
-- **"testing"** role as a group of roles, and it will automatically create 4 roles: **create_testing**,  **update_testing**, **read_testing** and **delete_testing**.
----
+* **"can_do_this"** as a role or
+* **"testing"** role as a group of roles, and it will automatically create 4 roles: **create_testing**,  **update_testing**, **read_testing** and **delete_testing**.
+
+===
 **Installation**
 ---
 
@@ -31,9 +32,8 @@ It's a fully functional application that have the following features:
 1. Once it's done, then point to your domain by going to http://yourdomain/
 1. Make sure to delete the migrate.php in the application/controllers/migrate.php to avoid some one play with your database especially if you are installing it on a live site.
 
-**Username**: administrator
-
-**Password**: password
+* **Username**: administrator
+* **Password**: password
 
 ---
 
