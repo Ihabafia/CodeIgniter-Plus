@@ -1,0 +1,12 @@
+.e404 {
+	font-size: 72px;
+	font-weight: bold;
+	text-align: center;
+	color: #888;
+}
+
+.error {
+	font-size: 18px;
+	text-align: center;
+	margin: 0 auto;
+}

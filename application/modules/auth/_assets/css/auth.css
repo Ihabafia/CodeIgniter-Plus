@@ -1,0 +1,36 @@
+#login {
+	background-color		: #888;
+}
+
+#loginPage {
+	max-width				: 350px;
+	margin					: 65px auto 0px;
+	padding					: 20px 30px 20px;
+	background-color		: #eee;
+	font-weight				: normal;
+	border					: 1px solid #ccc;
+	-webkit-border-radius	: 10px 10px 10px 10px; /* Saf3-4, iOS 1-3.2, Android <1.6 */
+	-moz-border-radius		: 10px 10px 10px 10px; /* FF1-3.6 */
+	border-radius			: 10px 10px 10px 10px; /* Opera 10.5, IE9, Saf5, Chrome, FF4, iOS 4, Android 2.1+ */
+	-moz-background-clip	: padding;
+	-webkit-background-clip	: padding-box;
+	background-clip			: padding-box;
+	box-shadow				: 0px -3px 20px 0px rgba(0, 0, 0, 0.8);
+}
+
+#loginPage label {
+	font-weight				: bold;
+	margin-top				: 15px;
+}
+
+#loginPage div.alert {
+	margin-bottom			: 0px;
+}
+
+#loginPage h2 {
+	margin-top: 5px;
+}
+
+#loginPage p{
+	margin: 0px;
+}
