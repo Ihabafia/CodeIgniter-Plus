@@ -14,8 +14,8 @@ It's a fully functional application that have the following features:
 1. It also have a database driven navigation as well as sorting and managing the navigation.
 1. The roles are database driven and you can use a single role or 	a crud roles, for example you can create:
 
-1.1. **"can_do_this"** as a role or
-1.1. **"testing"** role as a group of roles, and it will automatically create 4 roles: **create_testing** **update_testing** **read_testing** and **delete_testing**
+- **"can_do_this"** as a role or
+- **"testing"** role as a group of roles, and it will automatically create 4 roles: **create_testing**,  **update_testing**, **read_testing** and **delete_testing**.
 
 1. It also have a site preferences.
 1. Language, css, js, images, etc... can be module base if needed.
